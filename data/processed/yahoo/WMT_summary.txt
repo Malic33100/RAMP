@@ -1,0 +1,14 @@
+WMT Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $103.70
+52-week High: $104.51
+52-week Low: $48.89
+Average Volume: 18,298,030
+
+Total Return: 94.82%
+Average Daily Return: 0.14%
+Volatility (Daily): 1.35%

@@ -1,0 +1,14 @@
+CAT Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $435.65
+52-week High: $441.15
+52-week Low: $217.57
+Average Volume: 2,664,319
+
+Total Return: 60.30%
+Average Daily Return: 0.11%
+Volatility (Daily): 1.77%

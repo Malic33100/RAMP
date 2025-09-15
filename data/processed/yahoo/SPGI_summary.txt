@@ -1,0 +1,14 @@
+SPGI Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $543.91
+52-week High: $578.04
+52-week Low: $335.31
+Average Volume: 1,224,010
+
+Total Return: 41.79%
+Average Daily Return: 0.08%
+Volatility (Daily): 1.27%

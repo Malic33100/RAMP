@@ -1,0 +1,14 @@
+ABT Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $131.42
+52-week High: $139.95
+52-week Low: $86.66
+Average Volume: 5,994,574
+
+Total Return: 35.38%
+Average Daily Return: 0.07%
+Volatility (Daily): 1.28%

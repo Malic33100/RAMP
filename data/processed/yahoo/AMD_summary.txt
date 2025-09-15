@@ -1,0 +1,14 @@
+AMD Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $161.16
+52-week High: $227.30
+52-week Low: $76.48
+Average Volume: 51,294,930
+
+Total Return: 57.43%
+Average Daily Return: 0.14%
+Volatility (Daily): 3.16%

@@ -1,0 +1,14 @@
+ELV Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $306.81
+52-week High: $555.41
+52-week Low: $272.22
+Average Volume: 1,480,122
+
+Total Return: -28.56%
+Average Daily Return: -0.05%
+Volatility (Daily): 1.85%

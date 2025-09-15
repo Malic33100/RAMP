@@ -1,0 +1,14 @@
+INTC Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $24.77
+52-week High: $50.60
+52-week Low: $17.67
+Average Volume: 70,499,224
+
+Total Return: -33.71%
+Average Daily Return: -0.02%
+Volatility (Daily): 3.40%

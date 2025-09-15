@@ -1,0 +1,14 @@
+HD Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $422.81
+52-week High: $429.19
+52-week Low: $261.13
+Average Volume: 3,431,644
+
+Total Return: 39.97%
+Average Daily Return: 0.08%
+Volatility (Daily): 1.36%

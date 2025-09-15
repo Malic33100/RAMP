@@ -1,0 +1,14 @@
+VZ Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $43.87
+52-week High: $45.87
+52-week Low: $26.89
+Average Volume: 19,830,233
+
+Total Return: 49.77%
+Average Daily Return: 0.09%
+Volatility (Daily): 1.38%

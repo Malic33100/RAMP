@@ -1,0 +1,14 @@
+HON Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $211.74
+52-week High: $240.47
+52-week Low: $167.58
+Average Volume: 3,416,647
+
+Total Return: 13.63%
+Average Daily Return: 0.03%
+Volatility (Daily): 1.32%

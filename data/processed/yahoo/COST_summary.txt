@@ -1,0 +1,14 @@
+COST Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $960.10
+52-week High: $1075.34
+52-week Low: $522.21
+Average Volume: 2,041,685
+
+Total Return: 76.51%
+Average Daily Return: 0.12%
+Volatility (Daily): 1.30%

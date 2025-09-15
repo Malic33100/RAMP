@@ -1,0 +1,14 @@
+MRK Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $81.03
+52-week High: $130.23
+52-week Low: $72.58
+Average Volume: 11,102,635
+
+Total Return: -20.78%
+Average Daily Return: -0.04%
+Volatility (Daily): 1.51%

@@ -1,0 +1,14 @@
+ACN Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $237.84
+52-week High: $394.41
+52-week Low: $235.92
+Average Volume: 2,900,091
+
+Total Return: -22.08%
+Average Daily Return: -0.04%
+Volatility (Daily): 1.61%

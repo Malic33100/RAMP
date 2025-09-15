@@ -1,0 +1,14 @@
+BDX Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $185.85
+52-week High: $259.76
+52-week Low: $161.47
+Average Volume: 1,860,420
+
+Total Return: -27.11%
+Average Daily Return: -0.05%
+Volatility (Daily): 1.60%

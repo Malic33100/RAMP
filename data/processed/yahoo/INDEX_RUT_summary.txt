@@ -1,0 +1,14 @@
+INDEX_RUT Stock Analysis Summary
+========================================
+
+Date Range: 2024-09-16 to 2025-09-15
+Number of trading days: 250
+
+Current Close: $2405.02
+52-week High: $2466.49
+52-week Low: $1732.99
+Average Volume: 4,718,169,960
+
+Total Return: 9.86%
+Average Daily Return: 0.05%
+Volatility (Daily): 1.47%

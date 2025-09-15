@@ -1,0 +1,14 @@
+DE Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $469.07
+52-week High: $532.10
+52-week Low: $335.47
+Average Volume: 1,434,490
+
+Total Return: 17.51%
+Average Daily Return: 0.05%
+Volatility (Daily): 1.65%

@@ -1,0 +1,14 @@
+MMC Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $198.15
+52-week High: $246.94
+52-week Low: $179.32
+Average Volume: 1,887,115
+
+Total Return: 3.22%
+Average Daily Return: 0.01%
+Volatility (Daily): 1.06%

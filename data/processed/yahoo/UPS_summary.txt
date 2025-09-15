@@ -1,0 +1,14 @@
+UPS Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $84.04
+52-week High: $148.77
+52-week Low: $82.00
+Average Volume: 4,954,056
+
+Total Return: -40.91%
+Average Daily Return: -0.09%
+Volatility (Daily): 1.85%

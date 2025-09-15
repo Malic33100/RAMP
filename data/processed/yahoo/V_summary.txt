@@ -1,0 +1,14 @@
+V Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $339.06
+52-week High: $374.85
+52-week Low: $224.42
+Average Volume: 6,586,518
+
+Total Return: 40.66%
+Average Daily Return: 0.08%
+Volatility (Daily): 1.21%

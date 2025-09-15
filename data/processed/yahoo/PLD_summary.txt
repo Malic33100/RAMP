@@ -1,0 +1,14 @@
+PLD Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-15 to 2025-09-15
+Number of trading days: 501
+
+Current Close: $114.26
+52-week High: $130.04
+52-week Low: $84.54
+Average Volume: 3,918,505
+
+Total Return: nan%
+Average Daily Return: 0.01%
+Volatility (Daily): 1.76%

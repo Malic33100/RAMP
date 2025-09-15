@@ -1,0 +1,14 @@
+ISRG Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $433.99
+52-week High: $616.00
+52-week Low: $254.85
+Average Volume: 1,703,923
+
+Total Return: 45.55%
+Average Daily Return: 0.09%
+Volatility (Daily): 1.95%

@@ -1,0 +1,14 @@
+CVX Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $157.43
+52-week High: $165.09
+52-week Low: $129.01
+Average Volume: 8,645,775
+
+Total Return: 2.68%
+Average Daily Return: 0.02%
+Volatility (Daily): 1.44%

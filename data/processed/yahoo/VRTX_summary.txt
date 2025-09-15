@@ -1,0 +1,14 @@
+VRTX Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $393.21
+52-week High: $519.88
+52-week Low: $341.85
+Average Volume: 1,390,209
+
+Total Return: 11.71%
+Average Daily Return: 0.04%
+Volatility (Daily): 1.92%

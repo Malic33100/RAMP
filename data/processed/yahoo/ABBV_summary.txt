@@ -1,0 +1,14 @@
+ABBV Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $217.71
+52-week High: $221.77
+52-week Low: $127.54
+Average Volume: 5,803,305
+
+Total Return: 52.14%
+Average Daily Return: 0.10%
+Volatility (Daily): 1.50%

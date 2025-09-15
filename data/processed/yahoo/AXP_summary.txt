@@ -1,0 +1,14 @@
+AXP Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $327.20
+52-week High: $332.46
+52-week Low: $138.11
+Average Volume: 2,886,388
+
+Total Return: 109.99%
+Average Daily Return: 0.16%
+Volatility (Daily): 1.74%

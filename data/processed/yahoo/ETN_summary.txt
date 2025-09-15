@@ -1,0 +1,14 @@
+ETN Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $375.55
+52-week High: $398.40
+52-week Low: $186.84
+Average Volume: 2,349,686
+
+Total Return: 75.93%
+Average Daily Return: 0.13%
+Volatility (Daily): 2.04%

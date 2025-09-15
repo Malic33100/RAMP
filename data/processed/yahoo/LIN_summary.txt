@@ -1,0 +1,14 @@
+LIN Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $476.73
+52-week High: $484.83
+52-week Low: $352.14
+Average Volume: 1,903,206
+
+Total Return: 26.12%
+Average Daily Return: 0.05%
+Volatility (Daily): 1.09%

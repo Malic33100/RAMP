@@ -1,0 +1,14 @@
+CMCSA Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $32.62
+52-week High: $44.83
+52-week Low: $31.03
+Average Volume: 21,002,230
+
+Total Return: -23.90%
+Average Daily Return: -0.04%
+Volatility (Daily): 1.60%

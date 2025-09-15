@@ -1,0 +1,14 @@
+NFLX Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $1202.26
+52-week High: $1341.15
+52-week Low: $344.73
+Average Volume: 3,927,549
+
+Total Return: 204.83%
+Average Daily Return: 0.24%
+Volatility (Daily): 2.05%

@@ -1,0 +1,14 @@
+BAC Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $50.59
+52-week High: $51.09
+52-week Low: $23.72
+Average Volume: 40,314,835
+
+Total Return: 85.07%
+Average Daily Return: 0.14%
+Volatility (Daily): 1.64%

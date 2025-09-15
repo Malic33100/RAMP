@@ -1,0 +1,14 @@
+ADI Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $244.91
+52-week High: $257.11
+52-week Low: $149.76
+Average Volume: 3,443,613
+
+Total Return: 41.04%
+Average Daily Return: 0.09%
+Volatility (Daily): 2.21%

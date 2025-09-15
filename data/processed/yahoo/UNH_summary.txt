@@ -1,0 +1,14 @@
+UNH Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $347.95
+52-week High: $621.24
+52-week Low: $234.60
+Average Volume: 7,064,332
+
+Total Return: -26.21%
+Average Daily Return: -0.03%
+Volatility (Daily): 2.39%

@@ -1,0 +1,14 @@
+AVGO Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $364.09
+52-week High: $374.23
+52-week Low: $77.67
+Average Volume: 28,938,731
+
+Total Return: 340.84%
+Average Daily Return: 0.35%
+Volatility (Daily): 3.26%

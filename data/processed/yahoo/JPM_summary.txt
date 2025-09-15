@@ -1,0 +1,14 @@
+JPM Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $309.10
+52-week High: $309.94
+52-week Low: $129.93
+Average Volume: 9,243,550
+
+Total Return: 117.27%
+Average Daily Return: 0.17%
+Volatility (Daily): 1.48%

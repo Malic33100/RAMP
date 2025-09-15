@@ -1,0 +1,14 @@
+PM Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $161.65
+52-week High: $185.29
+52-week Low: $80.61
+Average Volume: 5,442,036
+
+Total Return: 82.95%
+Average Daily Return: 0.13%
+Volatility (Daily): 1.43%

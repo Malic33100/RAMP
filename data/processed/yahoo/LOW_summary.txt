@@ -1,0 +1,14 @@
+LOW Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $272.29
+52-week High: $281.56
+52-week Low: $175.81
+Average Volume: 2,603,750
+
+Total Return: 30.12%
+Average Daily Return: 0.06%
+Volatility (Daily): 1.47%

@@ -1,0 +1,14 @@
+PG Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $156.85
+52-week High: $177.66
+52-week Low: $134.55
+Average Volume: 7,103,838
+
+Total Return: 7.04%
+Average Daily Return: 0.02%
+Volatility (Daily): 1.06%

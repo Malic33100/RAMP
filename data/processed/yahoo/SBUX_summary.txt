@@ -1,0 +1,14 @@
+SBUX Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $82.68
+52-week High: $115.87
+52-week Low: $69.07
+Average Volume: 10,127,893
+
+Total Return: -10.15%
+Average Daily Return: 0.00%
+Volatility (Daily): 2.23%

@@ -1,0 +1,14 @@
+GOOGL Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $251.61
+52-week High: $252.40
+52-week Low: $119.39
+Average Volume: 30,895,419
+
+Total Return: 83.30%
+Average Daily Return: 0.14%
+Volatility (Daily): 1.91%

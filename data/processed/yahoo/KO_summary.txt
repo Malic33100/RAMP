@@ -1,0 +1,14 @@
+KO Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $66.21
+52-week High: $73.85
+52-week Low: $48.92
+Average Volume: 15,178,467
+
+Total Return: 19.67%
+Average Daily Return: 0.04%
+Volatility (Daily): 0.97%

@@ -1,0 +1,14 @@
+TSLA Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $410.26
+52-week High: $488.54
+52-week Low: $138.80
+Average Volume: 101,412,245
+
+Total Return: 54.65%
+Average Daily Return: 0.17%
+Volatility (Daily): 3.99%

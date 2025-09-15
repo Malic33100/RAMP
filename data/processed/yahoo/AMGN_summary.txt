@@ -1,0 +1,14 @@
+AMGN Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $274.40
+52-week High: $333.31
+52-week Low: $234.57
+Average Volume: 2,679,147
+
+Total Return: 11.00%
+Average Daily Return: 0.03%
+Volatility (Daily): 1.62%

@@ -1,0 +1,14 @@
+PEP Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $140.64
+52-week High: $173.88
+52-week Low: $125.14
+Average Volume: 6,584,662
+
+Total Return: -16.03%
+Average Daily Return: -0.03%
+Volatility (Daily): 1.24%

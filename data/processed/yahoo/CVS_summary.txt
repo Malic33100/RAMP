@@ -1,0 +1,14 @@
+CVS Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $73.47
+52-week High: $77.26
+52-week Low: $42.12
+Average Volume: 10,314,031
+
+Total Return: 12.94%
+Average Daily Return: 0.05%
+Volatility (Daily): 2.16%

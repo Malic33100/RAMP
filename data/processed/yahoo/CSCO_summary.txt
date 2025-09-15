@@ -1,0 +1,14 @@
+CSCO Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-15
+Number of trading days: 500
+
+Current Close: $67.02
+52-week High: $72.55
+52-week Low: $43.31
+Average Volume: 19,764,138
+
+Total Return: 26.66%
+Average Daily Return: 0.06%
+Volatility (Daily): 1.35%
