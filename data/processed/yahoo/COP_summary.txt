@@ -1,14 +1,14 @@
 COP Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $92.37
+Current Close: $93.76
 52-week High: $129.19
 52-week Low: $78.56
-Average Volume: 6,691,531
+Average Volume: 6,683,455
 
-Total Return: -21.02%
+Total Return: -19.83%
 Average Daily Return: -0.03%
 Volatility (Daily): 1.79%

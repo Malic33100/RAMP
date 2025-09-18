@@ -1,14 +1,14 @@
 SYK Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $377.33
+Current Close: $374.24
 52-week High: $404.87
 52-week Low: $245.94
-Average Volume: 1,347,289
+Average Volume: 1,344,198
 
-Total Return: 31.17%
+Total Return: 30.10%
 Average Daily Return: 0.06%
 Volatility (Daily): 1.34%

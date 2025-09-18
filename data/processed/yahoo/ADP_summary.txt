@@ -1,14 +1,14 @@
 ADP Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $290.87
+Current Close: $288.49
 52-week High: $326.59
 52-week Low: $196.83
-Average Volume: 1,676,418
+Average Volume: 1,676,747
 
-Total Return: 22.83%
+Total Return: 21.82%
 Average Daily Return: 0.05%
-Volatility (Daily): 1.18%
+Volatility (Daily): 1.17%

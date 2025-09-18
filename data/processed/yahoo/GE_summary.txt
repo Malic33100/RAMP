@@ -1,14 +1,14 @@
 GE Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $286.85
-52-week High: $287.11
+Current Close: $293.78
+52-week High: $294.74
 52-week Low: $83.34
-Average Volume: 5,958,840
+Average Volume: 5,945,432
 
-Total Return: 211.82%
+Total Return: 219.35%
 Average Daily Return: 0.25%
-Volatility (Daily): 1.92%
+Volatility (Daily): 1.91%

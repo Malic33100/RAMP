@@ -1,14 +1,14 @@
 NOW Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $947.15
+Current Close: $958.35
 52-week High: $1198.09
 52-week Low: $527.24
-Average Volume: 1,405,284
+Average Volume: 1,402,839
 
-Total Return: 63.72%
+Total Return: 65.66%
 Average Daily Return: 0.13%
-Volatility (Daily): 2.32%
+Volatility (Daily): 2.31%

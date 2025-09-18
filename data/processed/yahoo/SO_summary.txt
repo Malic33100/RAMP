@@ -1,14 +1,14 @@
 SO Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $92.30
+Current Close: $91.26
 52-week High: $95.68
 52-week Low: $57.35
-Average Volume: 4,620,866
+Average Volume: 4,619,305
 
-Total Return: 39.65%
+Total Return: 38.07%
 Average Daily Return: 0.07%
 Volatility (Daily): 1.13%

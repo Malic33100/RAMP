@@ -1,14 +1,14 @@
 XOM Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $112.39
+Current Close: $115.02
 52-week High: $121.93
 52-week Low: $90.11
-Average Volume: 17,048,882
+Average Volume: 17,014,448
 
-Total Return: 2.46%
-Average Daily Return: 0.01%
+Total Return: 4.86%
+Average Daily Return: 0.02%
 Volatility (Daily): 1.39%

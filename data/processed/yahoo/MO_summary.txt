@@ -1,14 +1,14 @@
 MO Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $64.88
-52-week High: $68.60
-52-week Low: $33.94
-Average Volume: 9,231,717
+Current Close: $64.49
+52-week High: $67.51
+52-week Low: $33.40
+Average Volume: 9,217,013
 
-Total Return: 72.30%
+Total Return: 74.03%
 Average Daily Return: 0.12%
-Volatility (Daily): 1.19%
+Volatility (Daily): 1.18%

@@ -1,14 +1,14 @@
 CVS Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $73.47
+Current Close: $73.69
 52-week High: $77.26
 52-week Low: $42.12
-Average Volume: 10,314,031
+Average Volume: 10,278,838
 
-Total Return: 12.94%
+Total Return: 13.28%
 Average Daily Return: 0.05%
 Volatility (Daily): 2.16%

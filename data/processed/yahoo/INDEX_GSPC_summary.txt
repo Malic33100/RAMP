@@ -1,14 +1,14 @@
 INDEX_GSPC Stock Analysis Summary
 ========================================
 
-Date Range: 2024-09-16 to 2025-09-15
-Number of trading days: 250
+Date Range: 2024-09-18 to 2025-09-18
+Number of trading days: 251
 
-Current Close: $6615.28
-52-week High: $6619.62
+Current Close: $6622.72
+52-week High: $6632.64
 52-week Low: $4835.04
-Average Volume: 4,729,702,124
+Average Volume: 4,738,608,653
 
-Total Return: 17.44%
+Total Return: 17.88%
 Average Daily Return: 0.07%
-Volatility (Daily): 1.19%
+Volatility (Daily): 1.18%

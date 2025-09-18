@@ -1,14 +1,14 @@
 MSFT Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $515.36
+Current Close: $507.94
 52-week High: $554.54
 52-week Low: $304.86
-Average Volume: 21,812,518
+Average Volume: 21,761,215
 
-Total Return: 58.98%
+Total Return: 56.69%
 Average Daily Return: 0.10%
 Volatility (Daily): 1.41%

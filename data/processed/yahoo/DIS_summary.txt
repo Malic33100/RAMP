@@ -1,14 +1,14 @@
 DIS Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $115.61
+Current Close: $115.18
 52-week High: $124.69
 52-week Low: $77.44
-Average Volume: 10,541,957
+Average Volume: 10,511,927
 
-Total Return: 38.25%
+Total Return: 37.73%
 Average Daily Return: 0.08%
-Volatility (Daily): 1.78%
+Volatility (Daily): 1.77%

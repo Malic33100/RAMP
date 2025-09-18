@@ -1,14 +1,14 @@
 MCD Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $302.05
+Current Close: $300.65
 52-week High: $322.65
 52-week Low: $234.45
-Average Volume: 3,417,887
+Average Volume: 3,412,003
 
-Total Return: 13.99%
+Total Return: 13.47%
 Average Daily Return: 0.03%
-Volatility (Daily): 1.14%
+Volatility (Daily): 1.13%

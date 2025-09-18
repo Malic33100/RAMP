@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 def main():
 
 # Load environment variables
-load_dotenv()
+    load_dotenv()
 
 # FRED API Configuration  
 FRED_API_KEY = os.getenv('FRED_API_KEY', '')

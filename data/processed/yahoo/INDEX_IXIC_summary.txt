@@ -1,14 +1,14 @@
 INDEX_IXIC Stock Analysis Summary
 ========================================
 
-Date Range: 2024-09-16 to 2025-09-15
-Number of trading days: 250
+Date Range: 2024-09-18 to 2025-09-18
+Number of trading days: 251
 
-Current Close: $22348.75
-52-week High: $22352.25
+Current Close: $22432.03
+52-week High: $22452.76
 52-week Low: $14784.03
-Average Volume: 8,415,083,804
+Average Volume: 8,426,575,347
 
-Total Return: 27.04%
+Total Return: 27.65%
 Average Daily Return: 0.11%
 Volatility (Daily): 1.53%

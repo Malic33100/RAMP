@@ -1,14 +1,14 @@
 NEE Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $71.53
+Current Close: $69.91
 52-week High: $83.50
 52-week Low: $44.37
-Average Volume: 11,679,356
+Average Volume: 11,654,675
 
-Total Return: 11.39%
-Average Daily Return: 0.04%
+Total Return: 8.87%
+Average Daily Return: 0.03%
 Volatility (Daily): 1.87%

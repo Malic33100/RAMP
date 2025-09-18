@@ -1,14 +1,14 @@
 TJX Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $141.18
+Current Close: $139.67
 52-week High: $145.58
 52-week Low: $84.41
-Average Volume: 5,267,452
+Average Volume: 5,255,386
 
-Total Return: 57.74%
-Average Daily Return: 0.10%
+Total Return: 56.05%
+Average Daily Return: 0.09%
 Volatility (Daily): 1.10%

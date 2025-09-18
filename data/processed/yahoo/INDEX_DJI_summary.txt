@@ -1,14 +1,14 @@
 INDEX_DJI Stock Analysis Summary
 ========================================
 
-Date Range: 2024-09-16 to 2025-09-15
-Number of trading days: 250
+Date Range: 2024-09-18 to 2025-09-18
+Number of trading days: 251
 
-Current Close: $45883.45
-52-week High: $46137.20
+Current Close: $46025.23
+52-week High: $46261.95
 52-week Low: $36611.78
-Average Volume: 531,666,744
+Average Volume: 530,235,608
 
-Total Return: 10.24%
-Average Daily Return: 0.04%
+Total Return: 10.90%
+Average Daily Return: 0.05%
 Volatility (Daily): 1.07%

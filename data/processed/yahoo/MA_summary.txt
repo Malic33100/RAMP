@@ -1,14 +1,14 @@
 MA Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $582.98
+Current Close: $597.50
 52-week High: $601.77
 52-week Low: $356.13
-Average Volume: 2,573,934
+Average Volume: 2,571,179
 
-Total Return: 41.39%
+Total Return: 44.92%
 Average Daily Return: 0.08%
 Volatility (Daily): 1.22%

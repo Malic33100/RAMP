@@ -1,14 +1,14 @@
 WFC Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $81.42
+Current Close: $82.35
 52-week High: $84.33
 52-week Low: $36.47
-Average Volume: 17,331,424
+Average Volume: 17,283,229
 
-Total Return: 97.33%
+Total Return: 99.58%
 Average Daily Return: 0.15%
 Volatility (Daily): 1.82%

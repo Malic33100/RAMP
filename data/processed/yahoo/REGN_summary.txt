@@ -1,14 +1,14 @@
 REGN Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $572.59
+Current Close: $594.59
 52-week High: $1206.03
 52-week Low: $475.77
-Average Volume: 743,356
+Average Volume: 742,377
 
-Total Return: -30.26%
+Total Return: -27.58%
 Average Daily Return: -0.05%
 Volatility (Daily): 1.91%

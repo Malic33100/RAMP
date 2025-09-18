@@ -1,14 +1,14 @@
 BMY Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $46.37
+Current Close: $46.01
 52-week High: $61.84
 52-week Low: $37.28
-Average Volume: 13,578,853
+Average Volume: 13,551,663
 
-Total Return: -13.03%
+Total Return: -13.69%
 Average Daily Return: -0.01%
-Volatility (Daily): 1.76%
+Volatility (Daily): 1.75%

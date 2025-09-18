@@ -1,14 +1,14 @@
 NKE Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $73.06
+Current Close: $72.40
 52-week High: $119.28
 52-week Low: $51.67
-Average Volume: 12,883,021
+Average Volume: 12,853,798
 
-Total Return: -20.60%
+Total Return: -21.32%
 Average Daily Return: -0.02%
-Volatility (Daily): 2.32%
+Volatility (Daily): 2.31%

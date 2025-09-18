@@ -1,14 +1,14 @@
 CRM Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $242.54
-52-week High: $367.42
-52-week Low: $192.00
-Average Volume: 6,599,635
+Current Close: $245.40
+52-week High: $366.78
+52-week Low: $191.66
+Average Volume: 6,601,235
 
-Total Return: 13.80%
+Total Return: 15.34%
 Average Daily Return: 0.05%
-Volatility (Daily): 2.12%
+Volatility (Daily): 2.11%

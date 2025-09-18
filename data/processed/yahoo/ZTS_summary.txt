@@ -1,14 +1,14 @@
 ZTS Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $146.30
+Current Close: $146.36
 52-week High: $198.00
 52-week Low: $138.77
-Average Volume: 2,607,184
+Average Volume: 2,601,963
 
-Total Return: -16.75%
+Total Return: -16.72%
 Average Daily Return: -0.02%
 Volatility (Daily): 1.62%

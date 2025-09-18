@@ -1,14 +1,14 @@
 PFE Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $23.98
+Current Close: $24.06
 52-week High: $30.11
 52-week Low: $20.18
-Average Volume: 40,801,812
+Average Volume: 40,777,141
 
-Total Return: -19.23%
+Total Return: -18.96%
 Average Daily Return: -0.03%
 Volatility (Daily): 1.57%

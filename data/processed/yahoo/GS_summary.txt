@@ -1,14 +1,14 @@
 GS Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $787.50
-52-week High: $793.17
+Current Close: $800.39
+52-week High: $801.00
 52-week Low: $275.97
-Average Volume: 2,259,989
+Average Volume: 2,254,358
 
-Total Return: 140.51%
+Total Return: 144.44%
 Average Daily Return: 0.19%
 Volatility (Daily): 1.81%

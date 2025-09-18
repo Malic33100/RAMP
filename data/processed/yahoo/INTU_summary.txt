@@ -1,14 +1,14 @@
 INTU Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $651.33
+Current Close: $667.36
 52-week High: $813.70
 52-week Low: $468.51
-Average Volume: 1,537,688
+Average Volume: 1,535,967
 
-Total Return: 23.27%
+Total Return: 26.30%
 Average Daily Return: 0.06%
 Volatility (Daily): 1.86%

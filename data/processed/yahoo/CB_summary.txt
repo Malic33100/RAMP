@@ -1,14 +1,14 @@
 CB Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $274.33
+Current Close: $272.46
 52-week High: $305.88
 52-week Low: $199.39
-Average Volume: 1,701,781
+Average Volume: 1,705,005
 
-Total Return: 31.18%
+Total Return: 30.29%
 Average Daily Return: 0.06%
 Volatility (Daily): 1.18%

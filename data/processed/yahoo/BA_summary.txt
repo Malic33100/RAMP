@@ -1,14 +1,14 @@
 BA Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $215.76
+Current Close: $214.74
 52-week High: $267.54
 52-week Low: $128.88
-Average Volume: 8,431,868
+Average Volume: 8,409,035
 
-Total Return: 5.19%
+Total Return: 4.69%
 Average Daily Return: 0.03%
 Volatility (Daily): 2.21%

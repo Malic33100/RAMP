@@ -1,14 +1,14 @@
 C Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $99.80
-52-week High: $100.16
+Current Close: $102.34
+52-week High: $102.59
 52-week Low: $35.56
-Average Volume: 15,204,590
+Average Volume: 15,174,338
 
-Total Return: 151.24%
-Average Daily Return: 0.20%
-Volatility (Daily): 1.83%
+Total Return: 157.64%
+Average Daily Return: 0.21%
+Volatility (Daily): 1.82%

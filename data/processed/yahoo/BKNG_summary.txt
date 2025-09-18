@@ -1,14 +1,14 @@
 BKNG Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $5559.83
+Current Close: $5457.69
 52-week High: $5829.37
 52-week Low: $2694.19
-Average Volume: 244,592
+Average Volume: 243,994
 
-Total Return: 78.58%
+Total Return: 75.30%
 Average Daily Return: 0.13%
 Volatility (Daily): 1.68%

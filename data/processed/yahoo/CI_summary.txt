@@ -1,14 +1,14 @@
 CI Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $297.06
-52-week High: $363.87
+Current Close: $295.85
+52-week High: $363.88
 52-week Low: $246.19
-Average Volume: 1,720,150
+Average Volume: 1,716,236
 
-Total Return: 7.89%
+Total Return: 7.46%
 Average Daily Return: 0.03%
 Volatility (Daily): 1.79%

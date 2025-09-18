@@ -5,11 +5,11 @@
   "region": "US",
   "triggerable": false,
   "customPriceAlertConfidence": "NONE",
-  "tradeable": false,
-  "cryptoTradeable": false,
   "corporateActions": [],
   "messageBoardId": "finmb_128209",
   "esgPopulated": false,
+  "tradeable": false,
+  "cryptoTradeable": false,
   "hasPrePostMarketData": false,
   "trailingPegRatio": null
 }

@@ -1,14 +1,14 @@
 LRCX Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $119.21
-52-week High: $119.33
+Current Close: $126.85
+52-week High: $127.21
 52-week Low: $56.18
-Average Volume: 11,293,447
+Average Volume: 11,276,521
 
-Total Return: 91.01%
-Average Daily Return: 0.17%
+Total Return: 103.25%
+Average Daily Return: 0.18%
 Volatility (Daily): 2.76%

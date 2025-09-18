@@ -1,14 +1,14 @@
 META Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $764.70
+Current Close: $785.51
 52-week High: $796.25
 52-week Low: $277.88
-Average Volume: 15,339,960
+Average Volume: 15,296,483
 
-Total Return: 154.14%
-Average Daily Return: 0.21%
-Volatility (Daily): 2.31%
+Total Return: 161.05%
+Average Daily Return: 0.22%
+Volatility (Daily): 2.30%

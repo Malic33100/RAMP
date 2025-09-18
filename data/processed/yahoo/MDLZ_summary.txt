@@ -1,14 +1,14 @@
 MDLZ Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $61.60
+Current Close: $62.49
 52-week High: $74.12
 52-week Low: $53.20
-Average Volume: 7,622,701
+Average Volume: 7,609,260
 
-Total Return: -9.64%
+Total Return: -8.34%
 Average Daily Return: -0.01%
 Volatility (Daily): 1.25%

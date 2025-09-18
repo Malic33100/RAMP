@@ -1,14 +1,14 @@
 AMZN Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $231.43
+Current Close: $228.87
 52-week High: $242.52
 52-week Low: $118.35
-Average Volume: 43,485,064
+Average Volume: 43,399,563
 
-Total Return: 65.33%
+Total Return: 63.50%
 Average Daily Return: 0.12%
 Volatility (Daily): 1.97%

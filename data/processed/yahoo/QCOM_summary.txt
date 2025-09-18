@@ -1,14 +1,14 @@
 QCOM Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $161.22
+Current Close: $167.66
 52-week High: $224.39
 52-week Low: $99.95
-Average Volume: 8,553,269
+Average Volume: 8,532,260
 
-Total Return: 49.26%
+Total Return: 55.22%
 Average Daily Return: 0.11%
 Volatility (Daily): 2.31%

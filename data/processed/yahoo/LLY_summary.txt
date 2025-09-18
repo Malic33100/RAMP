@@ -1,14 +1,14 @@
 LLY Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $748.42
+Current Close: $770.49
 52-week High: $965.15
 52-week Low: $509.23
-Average Volume: 3,507,526
+Average Volume: 3,503,119
 
-Total Return: 32.90%
-Average Daily Return: 0.08%
-Volatility (Daily): 2.24%
+Total Return: 36.82%
+Average Daily Return: 0.09%
+Volatility (Daily): 2.23%

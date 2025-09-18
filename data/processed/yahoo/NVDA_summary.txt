@@ -1,14 +1,14 @@
 NVDA Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $177.75
+Current Close: $173.26
 52-week High: $184.47
 52-week Low: $39.21
-Average Volume: 334,426,249
+Average Volume: 333,205,150
 
-Total Return: 304.53%
-Average Daily Return: 0.33%
-Volatility (Daily): 3.20%
+Total Return: 294.30%
+Average Daily Return: 0.32%
+Volatility (Daily): 3.19%

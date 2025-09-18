@@ -1,14 +1,14 @@
 DHR Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $188.53
+Current Close: $194.17
 52-week High: $280.22
 52-week Low: $170.73
-Average Volume: 3,311,828
+Average Volume: 3,311,909
 
-Total Return: -15.38%
-Average Daily Return: -0.02%
+Total Return: -12.85%
+Average Daily Return: -0.01%
 Volatility (Daily): 1.72%

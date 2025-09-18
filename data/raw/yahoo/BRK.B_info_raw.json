@@ -9,9 +9,9 @@
   "typeDisp": "Equity",
   "triggerable": false,
   "customPriceAlertConfidence": "LOW",
-  "cryptoTradeable": false,
   "corporateActions": [],
   "esgPopulated": false,
   "hasPrePostMarketData": false,
+  "cryptoTradeable": false,
   "trailingPegRatio": null
 }

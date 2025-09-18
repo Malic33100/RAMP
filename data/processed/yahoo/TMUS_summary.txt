@@ -1,14 +1,14 @@
 TMUS Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $239.74
+Current Close: $239.19
 52-week High: $274.51
 52-week Low: $131.87
-Average Volume: 4,302,528
+Average Volume: 4,291,391
 
-Total Return: 75.36%
+Total Return: 74.96%
 Average Daily Return: 0.12%
 Volatility (Daily): 1.39%

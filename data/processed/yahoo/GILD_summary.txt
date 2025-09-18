@@ -1,14 +1,14 @@
 GILD Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $112.54
-52-week High: $121.83
-52-week Low: $59.40
-Average Volume: 7,246,208
+Current Close: $112.58
+52-week High: $120.99
+52-week Low: $58.99
+Average Volume: 7,227,700
 
-Total Return: 58.53%
+Total Return: 59.69%
 Average Daily Return: 0.11%
-Volatility (Daily): 1.64%
+Volatility (Daily): 1.63%

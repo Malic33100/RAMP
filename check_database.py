@@ -14,7 +14,7 @@ cursor.execute("SELECT * FROM stock_data")
 rows = cursor.fetchall()
 
 print("\nFirst 5 rows:")
-for row in rows:
+for row in rows[:5]:
     print(row)
 
 # Check which stocks you have

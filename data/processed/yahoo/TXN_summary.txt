@@ -1,14 +1,14 @@
 TXN Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $178.20
+Current Close: $180.56
 52-week High: $220.10
 52-week Low: $131.93
-Average Volume: 6,086,859
+Average Volume: 6,084,595
 
-Total Return: 16.24%
+Total Return: 17.78%
 Average Daily Return: 0.05%
-Volatility (Daily): 2.12%
+Volatility (Daily): 2.11%

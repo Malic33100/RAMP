@@ -1,14 +1,14 @@
 IBM Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $256.25
+Current Close: $260.03
 52-week High: $294.17
 52-week Low: $127.09
-Average Volume: 4,370,054
+Average Volume: 4,359,518
 
-Total Return: 88.82%
+Total Return: 91.60%
 Average Daily Return: 0.14%
-Volatility (Daily): 1.62%
+Volatility (Daily): 1.61%

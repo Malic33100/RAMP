@@ -1,14 +1,14 @@
 RTX Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $158.43
+Current Close: $157.90
 52-week High: $161.26
 52-week Low: $65.54
-Average Volume: 6,466,362
+Average Volume: 6,451,851
 
-Total Return: 120.45%
+Total Return: 119.71%
 Average Daily Return: 0.17%
-Volatility (Daily): 1.44%
+Volatility (Daily): 1.43%

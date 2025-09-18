@@ -1,14 +1,14 @@
 T Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $29.63
+Current Close: $29.28
 52-week High: $29.79
 52-week Low: $12.86
-Average Volume: 36,028,187
+Average Volume: 35,938,008
 
-Total Return: 119.65%
-Average Daily Return: 0.17%
-Volatility (Daily): 1.38%
+Total Return: 117.07%
+Average Daily Return: 0.16%
+Volatility (Daily): 1.37%

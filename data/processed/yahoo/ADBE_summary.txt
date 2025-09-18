@@ -1,14 +1,14 @@
 ADBE Stock Analysis Summary
 ========================================
 
-Date Range: 2023-09-18 to 2025-09-15
-Number of trading days: 500
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
 
-Current Close: $347.10
+Current Close: $368.32
 52-week High: $638.25
 52-week Low: $330.04
-Average Volume: 3,438,461
+Average Volume: 3,445,703
 
-Total Return: -34.81%
-Average Daily Return: -0.06%
+Total Return: -30.82%
+Average Daily Return: -0.05%
 Volatility (Daily): 2.14%
