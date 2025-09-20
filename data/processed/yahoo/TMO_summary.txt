@@ -1,0 +1,14 @@
+TMO Stock Analysis Summary
+========================================
+
+Date Range: 2023-09-18 to 2025-09-18
+Number of trading days: 503
+
+Current Close: $475.67
+52-week High: $625.28
+52-week Low: $385.11
+Average Volume: 1,871,757
+
+Total Return: -5.73%
+Average Daily Return: 0.00%
+Volatility (Daily): 1.66%
