@@ -232,6 +232,9 @@ const Dashboard = () => {
             RAMP (Risk-Aware Market Predictor) scores range from 0-100, where higher scores 
             indicate higher predicted volatility. Scores are calculated using machine learning 
             analysis of historical price movements, volume patterns, and technical indicators.
+
+            Note: The app explicitly states that it does not provide legal, tax, investment,
+             or other professional advice. Users should consult a qualified financial advisor before making any decisions.
           </p>
         </div>
       </div>
