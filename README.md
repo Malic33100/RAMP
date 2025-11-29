@@ -7,8 +7,8 @@
  Installation Steps
 1. Download folder
 
- 2. Create Virtual Environment
-```bash
+ 2. Create Virtual Environment (in bash terminal)
+
 python -m venv ramp_env
 
 
