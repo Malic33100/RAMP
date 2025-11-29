@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+/* Custom color classes */
+.bg-dark {
+  background-color: #0F0F0F;
+}
+
+.bg-card {
+  background-color: #1A1A1A;
+}
+
+.text-electric-blue {
+  color: #00D4FF;
+}
+
+.text-orange {
+  color: #FF6B00;
+}
+
+.text-yellow {
+  color: #FFB800;
+}
+
+.bg-electric-blue {
+  background-color: #00D4FF;
+}
+
+.bg-orange {
+  background-color: #FF6B00;
+}
+
+.bg-yellow {
+  background-color: #FFB800;
+}
+
+.border-electric-blue {
+  border-color: #00D4FF;
+}
+
+.border-orange {
+  border-color: #FF6B00;
+}
+
+.border-yellow {
+  border-color: #FFB800;
+}
